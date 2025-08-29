@@ -1,0 +1,5 @@
+# Development dependencies
+pytest
+ruff
+black
+mypy
