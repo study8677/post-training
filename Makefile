@@ -1,4 +1,3 @@
-# Simple Makefile for linting and testing
 .PHONY: lint test
 
 lint:
